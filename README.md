@@ -14,6 +14,4 @@ Skills: DELPHI / C# / Adobe Suite / UX~UI / Photography
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virussinside)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=virussinside)  
-
 ![Profile views](https://gpvc.arturio.dev/virussinside)  
