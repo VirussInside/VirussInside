@@ -2,6 +2,9 @@
 #### Advanced Federal Diploma of Higher Education in IT
 
 
+[<img src='https://www.divtec.ch/wp-content/themes/divi-divtec/logos/est.png' alt='est_porren' height='40'>](https://github.com/virussinside)
+
+
 Skills: DELPHI / C# / Adobe Suite / UX~UI / Photography
 
 - 💬 Ask me about Gaming 
