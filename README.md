@@ -5,7 +5,7 @@
 [<img src='https://www.divtec.ch/wp-content/themes/divi-divtec/logos/est.png' alt='est_porren' height='40'>](https://github.com/virussinside)
 
 
-Skills: DELPHI / C# / Adobe Suite / UX~UI / Photography
+Skills  :  <b>DELPHI / C# / Adobe Suite / UX~UI / Photography</b>
 
 - 💬 Ask me about Gaming 
 - 😄 Pronouns: He/Him 
